@@ -1,0 +1,15 @@
+# Core packages
+pandas
+seaborn
+numpy
+matplotlib
+
+# YouTube API client
+google-api-python-client
+
+# Jupyter Notebook
+notebook
+jupyterlab
+
+# Optional (for pretty progress bars if needed)
+tqdm
